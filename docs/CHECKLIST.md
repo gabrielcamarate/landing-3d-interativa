@@ -7,13 +7,15 @@
 - [x] Fazer commit inicial e push para o GitHub
 - [x] Instalar dependências: Three.js ou React Three Fiber, i18next, estilização
 - [x] Estruturar pastas do projeto (src, assets, components, etc.)
-- [ ] Baixar e adicionar modelo 3D (.glb/.gltf) à pasta assets
-- [ ] Implementar componente para exibir o modelo 3D
-- [ ] Adicionar interatividade (girar, zoom)
-- [ ] Criar layout da página (header, main, footer)
-- [ ] Adicionar seleção de idioma (PT/EN)
-- [ ] Implementar textos em português (primeiro)
+- [ ] Criar cenário 3D base (ambiente, iluminação, câmera)
+- [ ] Implementar personagem controlável (WASD)
+- [ ] Adicionar objetos interativos e animações
+- [ ] Sistema de colisões e física básica
+- [ ] Interface de usuário (HUD, controles, informações)
+- [ ] Implementar seleção de idioma (PT/EN)
+- [ ] Adicionar textos em português (primeiro)
 - [ ] Adicionar textos em inglês (depois)
+- [ ] Adicionar efeitos visuais e partículas
 - [ ] Adicionar informações de contato e redes sociais
 - [ ] Testar responsividade (mobile/desktop)
 - [ ] Fazer ajustes de design e UX
