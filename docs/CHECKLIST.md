@@ -1,0 +1,22 @@
+# Checklist de Tarefas - Landing 3D Interativa
+
+- [x] Criar repositório no GitHub
+- [x] Clonar o repositório localmente
+- [x] Inicializar projeto React (Vite ou Create React App)
+- [x] Configurar Git (nome, email, .gitignore)
+- [ ] Fazer commit inicial e push para o GitHub
+- [ ] Instalar dependências: Three.js ou React Three Fiber, i18next, estilização
+- [ ] Estruturar pastas do projeto (src, assets, components, etc.)
+- [ ] Baixar e adicionar modelo 3D (.glb/.gltf) à pasta assets
+- [ ] Implementar componente para exibir o modelo 3D
+- [ ] Adicionar interatividade (girar, zoom)
+- [ ] Criar layout da página (header, main, footer)
+- [ ] Adicionar seleção de idioma (PT/EN)
+- [ ] Implementar textos em português (primeiro)
+- [ ] Adicionar textos em inglês (depois)
+- [ ] Adicionar informações de contato e redes sociais
+- [ ] Testar responsividade (mobile/desktop)
+- [ ] Fazer ajustes de design e UX
+- [ ] Escrever README com instruções e créditos
+- [ ] Fazer deploy (GitHub Pages ou Vercel)
+- [ ] Revisar tudo e divulgar! 
