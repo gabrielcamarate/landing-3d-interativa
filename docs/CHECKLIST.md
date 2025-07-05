@@ -4,9 +4,9 @@
 - [x] Clonar o repositório localmente
 - [x] Inicializar projeto React (Vite ou Create React App)
 - [x] Configurar Git (nome, email, .gitignore)
-- [ ] Fazer commit inicial e push para o GitHub
-- [ ] Instalar dependências: Three.js ou React Three Fiber, i18next, estilização
-- [ ] Estruturar pastas do projeto (src, assets, components, etc.)
+- [x] Fazer commit inicial e push para o GitHub
+- [x] Instalar dependências: Three.js ou React Three Fiber, i18next, estilização
+- [x] Estruturar pastas do projeto (src, assets, components, etc.)
 - [ ] Baixar e adicionar modelo 3D (.glb/.gltf) à pasta assets
 - [ ] Implementar componente para exibir o modelo 3D
 - [ ] Adicionar interatividade (girar, zoom)
